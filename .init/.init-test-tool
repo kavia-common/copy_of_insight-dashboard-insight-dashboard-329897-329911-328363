@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/insight-dashboard-329897-329911/dashboard_backend"
+}
